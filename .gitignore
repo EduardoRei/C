@@ -1,0 +1,25 @@
+# Binários compilados (sem extensão, gerados pelo gcc)
+*.out
+*.exe
+*.app
+
+# Objetos e bibliotecas
+*.o
+*.obj
+*.a
+*.so
+*.dylib
+*.dll
+
+# Símbolos de debug
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Compile sempre com -o <nome>.out para que o binario caia na regra *.out acima.
+# Nao ignore executaveis pelo nome do algoritmo: com core.ignorecase=true (padrao
+# no macOS) o padrao casaria tambem com a pasta homonima (ex: BubbleSort/).
+
+# macOS
+.DS_Store
