@@ -10,6 +10,7 @@ explicando o funcionamento e a complexidade.
 | [Bubble Sort](BubbleSort/) | O(n) | O(n²) | O(n²) | O(1) | Sim |
 | [Insertion Sort](InsertionSort/) | O(n) | O(n²) | O(n²) | O(1) | Sim |
 | [Merge Sort](MergeSort/) | O(n log n) | O(n log n) | O(n log n) | O(n) | Sim |
+| [Selection Sort](SelectionSort/) | O(n²) | O(n²) | O(n²) | O(1) | Não |
 
 ## Compilar
 
