@@ -21,5 +21,13 @@
 # Nao ignore executaveis pelo nome do algoritmo: com core.ignorecase=true (padrao
 # no macOS) o padrao casaria tambem com a pasta homonima (ex: BubbleSort/).
 
+# Binarios ja commitados por engano, ignorados por caminho exato (nao por nome,
+# pelo motivo acima). Nao ha diretorio com esses caminhos, entao e seguro.
+SortAlgorithms/BubbleSort/bubblesort
+SortAlgorithms/InsertionSort/InsertionSort
+SortAlgorithms/MergeSort/mergesort
+SortAlgorithms/SelectionSort/selectionsort
+SortAlgorithms/QuickSort/quicksort
+
 # macOS
 .DS_Store
