@@ -12,6 +12,7 @@ explicando o funcionamento e a complexidade.
 | [Merge Sort](MergeSort/) | O(n log n) | O(n log n) | O(n log n) | O(n) | Sim |
 | [Selection Sort](SelectionSort/) | O(n²) | O(n²) | O(n²) | O(1) | Não |
 | [Quick Sort](QuickSort/) | O(n log n) | O(n log n) | O(n²) | O(log n) | Não |
+| [Shell Sort](ShellSort/) | O(n log n) | ~O(n^1,25) | O(n²) | O(1) | Não |
 
 ## Compilar
 
