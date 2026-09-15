@@ -29,6 +29,7 @@ SortAlgorithms/MergeSort/mergesort
 SortAlgorithms/SelectionSort/selectionsort
 SortAlgorithms/QuickSort/quicksort
 SortAlgorithms/ShellSort/shellsort
+DataStructures/Linear/Stack/SequentialStack
 
 # macOS
 .DS_Store
