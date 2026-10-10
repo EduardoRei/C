@@ -29,6 +29,7 @@ SortAlgorithms/MergeSort/mergesort
 SortAlgorithms/SelectionSort/selectionsort
 SortAlgorithms/QuickSort/quicksort
 SortAlgorithms/ShellSort/shellsort
+SortAlgorithms/HeapSort/heapsort
 DataStructures/Linear/SequentialStack
 DataStructures/Linear/DoubleLinkedListVoid
 
